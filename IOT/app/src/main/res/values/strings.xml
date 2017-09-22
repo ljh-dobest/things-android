@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IotDemo</string>
+    <string name="title_activity_attention">AttentionActivity</string>
+</resources>

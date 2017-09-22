@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+<TextView
+    android:layout_centerHorizontal="true"
+    android:id="@+id/guide2_tv1"
+    android:layout_marginTop="150dp"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:textSize="18sp"
+    android:textColor="@color/white"
+    android:text="实时查看各地区传感器！"/>
+    <TextView
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/guide2_tv1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:textColor="@color/white"
+        android:text="不同地区的传感器也可以组合哦！！"/>
+
+</RelativeLayout>
