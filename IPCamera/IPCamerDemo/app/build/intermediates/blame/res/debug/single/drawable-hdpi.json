@@ -1,0 +1,578 @@
+[
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\rightdown_pressed.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\rightdown_pressed.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ptz_takevideo_pressed.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\ptz_takevideo_pressed.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\list_switch_open.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\list_switch_open.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\checkright_pressed.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\checkright_pressed.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ptz_center.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\ptz_center.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\top.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\top.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ptz_vert_tour.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\ptz_vert_tour.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sensor_code_new.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\sensor_code_new.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\vidicon_add.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\vidicon_add.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ptz_audio_on.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\ptz_audio_on.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\somke.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\somke.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\checkphone_pressed.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\checkphone_pressed.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\grid_bg.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\grid_bg.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\title_back.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\title_back.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\app_title_background.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\app_title_background.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\main_addcamera_normal.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\main_addcamera_normal.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_back_pressed1.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\btn_back_pressed1.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\refresh.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\refresh.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\have_new.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\have_new.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\close_press.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\close_press.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\vidicon_bottom.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\vidicon_bottom.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\video_play_pause_normal.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\video_play_pause_normal.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\main_bottom_bg.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\main_bottom_bg.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\alarm_log_bg.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\alarm_log_bg.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\exit.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\exit.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\video_default.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\video_default.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\add_btn_pressed.9.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\add_btn_pressed.9.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\main_bottomtab_bg_pressed.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\main_bottomtab_bg_pressed.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\left.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\left.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\back_play.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\back_play.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\top_bg_blue.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\top_bg_blue.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ptz_hori_tour.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\ptz_hori_tour.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\arrow.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\arrow.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ptz_microphone_on.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\ptz_microphone_on.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\main_picture.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\main_picture.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\list_switch_closed.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\list_switch_closed.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mic.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\mic.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ptz_resolution_preset.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\ptz_resolution_preset.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\gas.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\gas.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ptz_playmode_enlarge.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\ptz_playmode_enlarge.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\start_code_mangetic_5.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\start_code_mangetic_5.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ptz_playmode_standard.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\ptz_playmode_standard.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\code_sucess_new_background.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\code_sucess_new_background.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\checkphone_normal.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\checkphone_normal.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bottom.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\bottom.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\seekprogress.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\seekprogress.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ok.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\ok.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\listview_single_white_line.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\listview_single_white_line.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\checkmiddle_normal.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\checkmiddle_normal.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\arrowdown.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\arrowdown.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\main_right_menu.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\main_right_menu.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\main_alarm.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\main_alarm.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ptz_hori_mirror_press.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\ptz_hori_mirror_press.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\down.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\down.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ptz_contrast.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\ptz_contrast.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\play_video.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\play_video.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\checkright_normal.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\checkright_normal.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\button_loction_nor.9.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\button_loction_nor.9.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\splash.9.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\splash.9.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\control.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\control.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\rightdown.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\rightdown.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\toptitle.9.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\toptitle.9.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_album_inverse.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_album_inverse.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\main_video.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\main_video.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ptz_resolution_qvga.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\ptz_resolution_qvga.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\easyicon_cn.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\easyicon_cn.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sos.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\sos.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\info.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\info.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\list_bg.9.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\list_bg.9.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\picture_default.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\picture_default.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\checkleft_normal.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\checkleft_normal.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ptz_resolution_vga.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\ptz_resolution_vga.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ptz_takevideo.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\ptz_takevideo.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ptz_hori_mirror.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\ptz_hori_mirror.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\magnetic.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\magnetic.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\order_details_bg.9.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\order_details_bg.9.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\video_play_pause_pressed.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\video_play_pause_pressed.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\del_hook.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\del_hook.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sensor_add_new.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\sensor_add_new.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sensor_back.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\sensor_back.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\about.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\about.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\search.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\search.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\menu_bg_down.9.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\menu_bg_down.9.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\start_code_siren_4.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\start_code_siren_4.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\infrared.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\infrared.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ptz_playmode_fullscreen.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\ptz_playmode_fullscreen.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\right.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\right.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\start_code_siren_1.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\start_code_siren_1.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\codeing.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\codeing.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\app.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\app.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\up.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\up.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\red.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\red.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ptz_default_set.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\ptz_default_set.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\top_bg.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\top_bg.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_back_pressed.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\btn_back_pressed.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_rec.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\icon_rec.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_delete_camera.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_delete_camera.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\checkmiddle_pressed.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\checkmiddle_pressed.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\one.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\one.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\more_activity_logout_button_background.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\more_activity_logout_button_background.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_setting_camera.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_setting_camera.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\video_play_play_pressed.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\video_play_play_pressed.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\close_no.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\close_no.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ptz_audio_off.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\ptz_audio_off.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\video_play_right_pressed.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\video_play_right_pressed.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\add_sensor_ok.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\add_sensor_ok.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\edit_bg.9.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\edit_bg.9.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\add.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\add.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_edit_camera.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_edit_camera.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ptz_vert_mirror.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\ptz_vert_mirror.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\detailpanel_bg.9.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\detailpanel_bg.9.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\video_play_play_normal.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\video_play_play_normal.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sensorlist_item_smoke.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\sensorlist_item_smoke.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\cancel_code.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\cancel_code.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\button_loction_press.9.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\button_loction_press.9.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\start_code_siren_3.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\start_code_siren_3.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ptz_resolution_720p.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\ptz_resolution_720p.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\exitbutton.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\exitbutton.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\emoji.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\emoji.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ptz_brightness.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\ptz_brightness.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\check_top_tab_pressed.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\check_top_tab_pressed.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sensorlist_item_control.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\sensorlist_item_control.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\seekbg.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\seekbg.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sensorlist_item_magnetic.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\sensorlist_item_magnetic.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ptz_takepic.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\ptz_takepic.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\start_code_siren_2.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\start_code_siren_2.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bad_video.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\bad_video.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\video_play_left_pressed.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\video_play_left_pressed.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sensor_siren_icon.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\sensor_siren_icon.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\add_btn_normal.9.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\add_btn_normal.9.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_back_normal.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\btn_back_normal.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pic_defulte.9.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\pic_defulte.9.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\vidicon.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\vidicon.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\checktopleft_pressed.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\checktopleft_pressed.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ptz_microphone_off.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\ptz_microphone_off.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\video_play_right_normal.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\video_play_right_normal.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ptz_vert_mirror_press.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\ptz_vert_mirror_press.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\video_play_left_normal.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\video_play_left_normal.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sensorlist_item_gas.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\sensorlist_item_gas.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abs__spinner_ab_default_holo_light.9.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\abs__spinner_ab_default_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_pressed.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\btn_pressed.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sensorlist_background.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\sensorlist_background.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sensorlist_item_infrared.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\sensorlist_item_infrared.png"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_normal.png",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\drawable-hdpi\\btn_normal.png"
+    }
+]

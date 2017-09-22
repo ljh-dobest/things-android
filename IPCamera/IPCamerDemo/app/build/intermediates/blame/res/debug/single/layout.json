@@ -1,0 +1,394 @@
+[
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popuppreset.xml",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\layout\\popuppreset.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\setting_list_item.xml",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\layout\\setting_list_item.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Min\\.android\\build-cache\\bdb0fe15f50abf5abd61d5b49b087ae69fad581d\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Min\\.android\\build-cache\\bdb0fe15f50abf5abd61d5b49b087ae69fad581d\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Min\\.android\\build-cache\\bdb0fe15f50abf5abd61d5b49b087ae69fad581d\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\settingsdcard.xml",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\layout\\settingsdcard.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Min\\.android\\build-cache\\bdb0fe15f50abf5abd61d5b49b087ae69fad581d\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loadmorecount.xml",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\layout\\loadmorecount.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sensorlist_item_sensortype_item.xml",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\layout\\sensorlist_item_sensortype_item.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Min\\.android\\build-cache\\bdb0fe15f50abf5abd61d5b49b087ae69fad581d\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Min\\.android\\build-cache\\bdb0fe15f50abf5abd61d5b49b087ae69fad581d\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_gallery_media_grid_fresco.xml",
+        "source": "C:\\Users\\Min\\.android\\build-cache\\ba05a26f6932fe7609d790eca42f0ca216753e3b\\output\\res\\layout\\item_gallery_media_grid_fresco.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gallery_fragment_media_preview.xml",
+        "source": "C:\\Users\\Min\\.android\\build-cache\\ba05a26f6932fe7609d790eca42f0ca216753e3b\\output\\res\\layout\\gallery_fragment_media_preview.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\showlocalpicgrid.xml",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\layout\\showlocalpicgrid.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\Min\\.android\\build-cache\\bdb0fe15f50abf5abd61d5b49b087ae69fad581d\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gallery_adapter_bucket_item.xml",
+        "source": "C:\\Users\\Min\\.android\\build-cache\\ba05a26f6932fe7609d790eca42f0ca216753e3b\\output\\res\\layout\\gallery_adapter_bucket_item.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alermaudiopopwindow.xml",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\layout\\alermaudiopopwindow.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Min\\.android\\build-cache\\bdb0fe15f50abf5abd61d5b49b087ae69fad581d\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alermtriggerpopwindow.xml",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\layout\\alermtriggerpopwindow.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alermsensitivepopwindow.xml",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\layout\\alermsensitivepopwindow.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alermiooutpopwindow.xml",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\layout\\alermiooutpopwindow.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ucrop_controls.xml",
+        "source": "C:\\Users\\Min\\.android\\build-cache\\87ed5221ce13f7feaaa66d83acb9fe4798eb40c4\\output\\res\\layout\\ucrop_controls.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Min\\.android\\build-cache\\bdb0fe15f50abf5abd61d5b49b087ae69fad581d\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_d.xml",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\layout\\popup_d.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Min\\.android\\build-cache\\bdb0fe15f50abf5abd61d5b49b087ae69fad581d\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\update_firmware_view.xml",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\layout\\update_firmware_view.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Min\\.android\\build-cache\\bdb0fe15f50abf5abd61d5b49b087ae69fad581d\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\localpicture_listitem.xml",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\layout\\localpicture_listitem.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\control_device_view.xml",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\layout\\control_device_view.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Min\\.android\\build-cache\\bdb0fe15f50abf5abd61d5b49b087ae69fad581d\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ucrop_aspect_ratio.xml",
+        "source": "C:\\Users\\Min\\.android\\build-cache\\87ed5221ce13f7feaaa66d83acb9fe4798eb40c4\\output\\res\\layout\\ucrop_aspect_ratio.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Min\\.android\\build-cache\\bdb0fe15f50abf5abd61d5b49b087ae69fad581d\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\playbacktf_listitem.xml",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\layout\\playbacktf_listitem.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ucrop_view.xml",
+        "source": "C:\\Users\\Min\\.android\\build-cache\\87ed5221ce13f7feaaa66d83acb9fe4798eb40c4\\output\\res\\layout\\ucrop_view.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\settingwifi_list_item.xml",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\layout\\settingwifi_list_item.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Min\\.android\\build-cache\\bdb0fe15f50abf5abd61d5b49b087ae69fad581d\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\edit_sensor.xml",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\layout\\edit_sensor.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\setting.xml",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\layout\\setting.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Min\\.android\\build-cache\\bdb0fe15f50abf5abd61d5b49b087ae69fad581d\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\playbacktf.xml",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\layout\\playbacktf.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Min\\.android\\build-cache\\bdb0fe15f50abf5abd61d5b49b087ae69fad581d\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Min\\.android\\build-cache\\bdb0fe15f50abf5abd61d5b49b087ae69fad581d\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Min\\.android\\build-cache\\bdb0fe15f50abf5abd61d5b49b087ae69fad581d\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alermpresetmovepopwindow.xml",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\layout\\alermpresetmovepopwindow.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\playback.xml",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\layout\\playback.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gallery_fragment_media_grid.xml",
+        "source": "C:\\Users\\Min\\.android\\build-cache\\ba05a26f6932fe7609d790eca42f0ca216753e3b\\output\\res\\layout\\gallery_fragment_media_grid.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Min\\.android\\build-cache\\bdb0fe15f50abf5abd61d5b49b087ae69fad581d\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ucrop_layout_scale_wheel.xml",
+        "source": "C:\\Users\\Min\\.android\\build-cache\\87ed5221ce13f7feaaa66d83acb9fe4798eb40c4\\output\\res\\layout\\ucrop_layout_scale_wheel.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ptz_resolution_jpeg.xml",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\layout\\ptz_resolution_jpeg.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Min\\.android\\build-cache\\bdb0fe15f50abf5abd61d5b49b087ae69fad581d\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\settingalarm.xml",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\layout\\settingalarm.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Min\\.android\\build-cache\\bdb0fe15f50abf5abd61d5b49b087ae69fad581d\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\play.xml",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\layout\\play.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Min\\.android\\build-cache\\bdb0fe15f50abf5abd61d5b49b087ae69fad581d\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\showlocalvideo_activity.xml",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\layout\\showlocalvideo_activity.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Min\\.android\\build-cache\\bdb0fe15f50abf5abd61d5b49b087ae69fad581d\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\startcode_layout.xml",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\layout\\startcode_layout.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Min\\.android\\build-cache\\bdb0fe15f50abf5abd61d5b49b087ae69fad581d\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gallery_media_image_preview_item.xml",
+        "source": "C:\\Users\\Min\\.android\\build-cache\\ba05a26f6932fe7609d790eca42f0ca216753e3b\\output\\res\\layout\\gallery_media_image_preview_item.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ucrop_activity_photobox.xml",
+        "source": "C:\\Users\\Min\\.android\\build-cache\\87ed5221ce13f7feaaa66d83acb9fe4798eb40c4\\output\\res\\layout\\ucrop_activity_photobox.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gallery_loading_view_final_footer_default.xml",
+        "source": "C:\\Users\\Min\\.android\\build-cache\\ba05a26f6932fe7609d790eca42f0ca216753e3b\\output\\res\\layout\\gallery_loading_view_final_footer_default.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\settingdate.xml",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\layout\\settingdate.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\start.xml",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\layout\\start.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\settingdate_timezone_popwindow.xml",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\layout\\settingdate_timezone_popwindow.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Min\\.android\\build-cache\\bdb0fe15f50abf5abd61d5b49b087ae69fad581d\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\preset_view.xml",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\layout\\preset_view.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_list_item.xml",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\layout\\search_list_item.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Min\\.android\\build-cache\\bdb0fe15f50abf5abd61d5b49b087ae69fad581d\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Min\\.android\\build-cache\\bdb0fe15f50abf5abd61d5b49b087ae69fad581d\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gallery_fragment_media_page.xml",
+        "source": "C:\\Users\\Min\\.android\\build-cache\\ba05a26f6932fe7609d790eca42f0ca216753e3b\\output\\res\\layout\\gallery_fragment_media_page.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\settinguser.xml",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\layout\\settinguser.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Min\\.android\\build-cache\\bdb0fe15f50abf5abd61d5b49b087ae69fad581d\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ucrop_layout_rotate_wheel.xml",
+        "source": "C:\\Users\\Min\\.android\\build-cache\\87ed5221ce13f7feaaa66d83acb9fe4798eb40c4\\output\\res\\layout\\ucrop_layout_rotate_wheel.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\brightprogress.xml",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\layout\\brightprogress.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Min\\.android\\build-cache\\bdb0fe15f50abf5abd61d5b49b087ae69fad581d\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\add_camera.xml",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\layout\\add_camera.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Min\\.android\\build-cache\\bdb0fe15f50abf5abd61d5b49b087ae69fad581d\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\settingdate_ntpserver_popwindow.xml",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\layout\\settingdate_ntpserver_popwindow.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Min\\.android\\build-cache\\bdb0fe15f50abf5abd61d5b49b087ae69fad581d\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Min\\.android\\build-cache\\bdb0fe15f50abf5abd61d5b49b087ae69fad581d\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ptz_resolution_h264.xml",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\layout\\ptz_resolution_h264.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\local_picture.xml",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\layout\\local_picture.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Min\\.android\\build-cache\\bdb0fe15f50abf5abd61d5b49b087ae69fad581d\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gallery_activity_media.xml",
+        "source": "C:\\Users\\Min\\.android\\build-cache\\ba05a26f6932fe7609d790eca42f0ca216753e3b\\output\\res\\layout\\gallery_activity_media.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Min\\.android\\build-cache\\bdb0fe15f50abf5abd61d5b49b087ae69fad581d\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Min\\.android\\build-cache\\bdb0fe15f50abf5abd61d5b49b087ae69fad581d\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Min\\.android\\build-cache\\bdb0fe15f50abf5abd61d5b49b087ae69fad581d\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\settingsensorlist.xml",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\layout\\settingsensorlist.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Min\\.android\\build-cache\\bdb0fe15f50abf5abd61d5b49b087ae69fad581d\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Min\\.android\\build-cache\\bdb0fe15f50abf5abd61d5b49b087ae69fad581d\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Min\\.android\\build-cache\\bdb0fe15f50abf5abd61d5b49b087ae69fad581d\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_gallery_media_grid.xml",
+        "source": "C:\\Users\\Min\\.android\\build-cache\\ba05a26f6932fe7609d790eca42f0ca216753e3b\\output\\res\\layout\\item_gallery_media_grid.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\linkcamera_layout.xml",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\layout\\linkcamera_layout.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\showlocalpicgrid_griditem.xml",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\layout\\showlocalpicgrid_griditem.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\settingwifi.xml",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\layout\\settingwifi.xml"
+    },
+    {
+        "merged": "E:\\test\\IPCamerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sensoradapterlayout.xml",
+        "source": "E:\\test\\IPCamerDemo\\app\\src\\main\\res\\layout\\sensoradapterlayout.xml"
+    }
+]

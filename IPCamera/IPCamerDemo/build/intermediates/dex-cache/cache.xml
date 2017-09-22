@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Min\.android\build-cache\87ed5221ce13f7feaaa66d83acb9fe4798eb40c4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="515960f41b2032bbff45af39c0c9628db4956d3e">
+        <dex dex="E:\test\IPCamerDemo\app\build\intermediates\pre-dexed\debug\classes_926c067f47a37796e340a850751918b773a24568.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Min\.android\build-cache\757d77673aeee827f32b8571b0793e37fd092345\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="E:\test\IPCamerDemo\app\build\intermediates\pre-dexed\debug\classes_46877d6334c22e92766caf9a93927112932243f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Min\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="E:\test\IPCamerDemo\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_27973669b2cf9625596346c4dd97d985a1ada749.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Min\.android\build-cache\282234b2faaa430c2e259cdafbb158985545e659\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="E:\test\IPCamerDemo\app\build\intermediates\pre-dexed\debug\classes_3105c5b90fc3a6fcc7ddbddb8e6fcce0cb2a539c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Min\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="E:\test\IPCamerDemo\app\build\intermediates\pre-dexed\debug\converter-gson-2.1.0_34c58f5ab92ddbf3a975902f5b8b9743cf3e0525.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\test\IPCamerDemo\app\libs\libStreamSDK_v1.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="033b7351fc2173a9ac8e82a355c877495759eb67">
+        <dex dex="E:\test\IPCamerDemo\app\build\intermediates\pre-dexed\debug\libStreamSDK_v1.2.0_23d55b5a14264de34ea89a18fa11a1af9883a6d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Min\.gradle\caches\modules-2\files-2.1\io.reactivex.rxjava2\rxjava\2.1.0\2fdf84dedcaaeabb9d70cde9dbb8aad4eccb80a1\rxjava-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2fdf84dedcaaeabb9d70cde9dbb8aad4eccb80a1">
+        <dex dex="E:\test\IPCamerDemo\app\build\intermediates\pre-dexed\debug\rxjava-2.1.0_94feecf67de55613460c4d829f9952a259e55727.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Min\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="E:\test\IPCamerDemo\app\build\intermediates\pre-dexed\debug\retrofit-2.1.0_e389202670d73fc1eb96a5894c0e217bfe8baeba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Min\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="E:\test\IPCamerDemo\app\build\intermediates\pre-dexed\debug\okio-1.9.0_c98923121baa707979d4df9baaefec56c55e504b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Min\.android\build-cache\afef31cc8ffaa0bba5897d259268c1c0fda8eef9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6bd32b72098fecf44dcab3808a11e6b9fcb86b7b">
+        <dex dex="E:\test\IPCamerDemo\app\build\intermediates\pre-dexed\debug\classes_242c75b94863412bb080eda42a674e0870717f5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Min\.android\build-cache\d78ed0d4406826822b2d4c4b92efcfa22af933cf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="E:\test\IPCamerDemo\app\build\intermediates\pre-dexed\debug\classes_5df3caf66ba8ad12688b3e09075ccaa7b0f495eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Min\.android\build-cache\ba05a26f6932fe7609d790eca42f0ca216753e3b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3c03426f871e3f771230b3bc302a9869dba9fe4f">
+        <dex dex="E:\test\IPCamerDemo\app\build\intermediates\pre-dexed\debug\classes_67a0dc0a59eeddfc39ad376df18d03ba0409aac7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\test\IPCamerDemo\app\libs\com.baidu.tts_2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="13821b9782a321df92a623074b28c8aee1f03348">
+        <dex dex="E:\test\IPCamerDemo\app\build\intermediates\pre-dexed\debug\com.baidu.tts_2.3.0_706cdb4667afe172441fe6d6d913019f17c1a0cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Min\.android\build-cache\15f58b9c49c04457b2bf41f5609df1ab2d75aad4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="E:\test\IPCamerDemo\app\build\intermediates\pre-dexed\debug\classes_14295c0d003ddde2886c4efcb390b6e50f7d0738.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Min\.android\build-cache\2b6c1a2f9b30ae1d3dc7cc5e563b06f053f17c60\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\test\IPCamerDemo\app\build\intermediates\pre-dexed\debug\classes_e05c28f17feffce196a8c2ba826d12ac7ffbfecf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Min\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="E:\test\IPCamerDemo\app\build\intermediates\pre-dexed\debug\okhttp-3.4.1_e23d8b9b60e24c7a0a9c0ed3165be1d97460798e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Min\.android\build-cache\34ba2dfa0a0f1a0ccda70609f417f2338ebcf69d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="155fef2600f48631a9e9665c0873743b6d24e324">
+        <dex dex="E:\test\IPCamerDemo\app\build\intermediates\pre-dexed\debug\classes_609f0d2e3363441ad7dd9e5a033656d8aa63559a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Min\.gradle\caches\modules-2\files-2.1\org.greenrobot\eventbus\3.0.0\ddd99896e9569eaababbe81b35d80e1b91c4ad85\eventbus-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="E:\test\IPCamerDemo\app\build\intermediates\pre-dexed\debug\eventbus-3.0.0_468a533b78bbad1adaaf54a4ea1e563b5d4519d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Min\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="E:\test\IPCamerDemo\app\build\intermediates\pre-dexed\debug\gson-2.7_576e5909ac83875c374281d0ece5ec23cec230eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="E:\test\IPCamerDemo\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_762974f087c5d1d7175d593dab4e23d42988de15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Min\.android\build-cache\98b26e25d5f635d06d070e38d48b07807d2c8ee5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="E:\test\IPCamerDemo\app\build\intermediates\pre-dexed\debug\classes_d843ccc57064d123805326e5b2f966824e82f805.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Min\.android\build-cache\4d1def88b307e7cd687a731486738f5ae67380c6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="E:\test\IPCamerDemo\app\build\intermediates\pre-dexed\debug\classes_17da9fb5625e6b4591c17adc73357cd3bed05dfa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Min\.android\build-cache\354605d4397cd121349c32c6917dc2ce22680c12\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="E:\test\IPCamerDemo\app\build\intermediates\pre-dexed\debug\classes_42c32202322d64858ace96628c4320baf04637bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Min\.android\build-cache\ad589dc57a02809f7692e1943618c17601859c64\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="E:\test\IPCamerDemo\app\build\intermediates\pre-dexed\debug\classes_45836fb48a6ca50f5f7f16a46b60dd0c92e5f0a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Min\.android\build-cache\bdb0fe15f50abf5abd61d5b49b087ae69fad581d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="E:\test\IPCamerDemo\app\build\intermediates\pre-dexed\debug\classes_69d6fc8d58f8c7e94b0b8f314b2bdef62a985657.jar" />
+    </item>
+
+</items>
