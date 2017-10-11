@@ -35,12 +35,10 @@
         </activity>
         <activity android:name=".MainActivity" />
         <activity android:name=".ui.EquimentControlActivity" />
-        <activity android:name=".ui.VedioActivity" />
         <activity android:name=".ui.LoginActivity" />
 
         <service android:name=".service.MsgService" />
 
-        <activity android:name=".ui.MyActivity" />
         <activity android:name=".ocr.OCRActivity" />
         <activity android:name=".ocr.IDCardActivity" />
         <!-- <activity android:name=".ui.StartUpActivity"></activity> -->

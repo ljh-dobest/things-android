@@ -1,6 +1,5 @@
 package com.min.iotdemo.ui;
 
-import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.LinearLayout;
@@ -9,7 +8,6 @@ import android.widget.TextView;
 import com.ike.mylibrary.util.T;
 import com.ike.mylibrary.widget.dialog.LoadDialog;
 import com.min.iotdemo.R;
-import com.min.iotdemo.adapter.ElvChildEquipmentControlAdapter;
 import com.min.iotdemo.adapter.ElvMainEquimentControlAdapter;
 import com.min.iotdemo.base.BaseMvpActivity;
 import com.min.iotdemo.bean.EquimentBean;
@@ -25,8 +23,10 @@ import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.OnClick;
 
+/**
+ * 传感器组合控制类
+ */
 public class EquimentControlActivity extends BaseMvpActivity<IControlActivityView, EquimentsControlPresenter> implements IControlActivityView {
-
 
     @BindView(R.id.ex_lv_mainequipment_control)
     MyElvListView exLvMainequipmentControl;
@@ -40,7 +40,6 @@ public class EquimentControlActivity extends BaseMvpActivity<IControlActivityVie
     TextView tvControlVedio;
 
     private ElvMainEquimentControlAdapter mainEquimentControlAdapter;
-    private ElvChildEquipmentControlAdapter childEquipmentControlAdapter;
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
@@ -72,7 +71,7 @@ public class EquimentControlActivity extends BaseMvpActivity<IControlActivityVie
                 finish();
                 break;
             case R.id.tv_control_vedio:
-              startActivity(new Intent(this,VedioActivity.class));
+
                 break;
             case R.id.tv_control_set:
                 LoadDialog.show(this);

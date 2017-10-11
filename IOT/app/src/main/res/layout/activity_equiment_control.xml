@@ -47,6 +47,7 @@
                 android:text="设备组合控制"
                 />
             <TextView
+                android:visibility="gone"
                 android:id="@+id/tv_control_vedio"
                 android:layout_centerVertical="true"
                 android:layout_toLeftOf="@+id/tv_control_set"

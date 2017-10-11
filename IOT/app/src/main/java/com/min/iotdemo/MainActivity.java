@@ -16,7 +16,6 @@ import com.app.hubert.library.NewbieGuide;
 import com.app.hubert.library.OnGuideChangedListener;
 import com.ike.mylibrary.util.T;
 import com.ike.mylibrary.widget.dialog.LoadDialog;
-import com.min.iotdemo.adapter.ElvChildEquipmentAdapter;
 import com.min.iotdemo.adapter.ElvMainEquimentAdapter;
 import com.min.iotdemo.base.BaseMvpActivity;
 import com.min.iotdemo.bean.EquimentBean;
@@ -63,7 +62,6 @@ public class MainActivity extends BaseMvpActivity<IMainView, MainDataPresenter> 
         }
     };
     private ElvMainEquimentAdapter mainEquimentAdapter;
-    private ElvChildEquipmentAdapter childEquipmentAdapter;
     private boolean isFirstStart = true;
     private boolean isCancel = false;
     private List<EquimentBean> list = new ArrayList<EquimentBean>(0);

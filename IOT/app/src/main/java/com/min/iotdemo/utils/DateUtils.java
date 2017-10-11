@@ -8,8 +8,6 @@ import android.annotation.SuppressLint;
 import android.content.Context;
 import android.content.res.AssetManager;
 
-import com.min.iotdemo.adapter.CustomDate;
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;

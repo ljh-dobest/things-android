@@ -21,7 +21,9 @@ import com.baidu.ocr.sdk.model.AccessToken;
 import com.baidu.ocr.ui.camera.CameraActivity;
 import com.min.iotdemo.R;
 
-
+/**
+ * 文字识别的类
+ */
 public class OCRActivity extends AppCompatActivity {
 
     private static final int REQUEST_CODE_GENERAL = 105;

@@ -22,6 +22,9 @@ import java.io.OutputStream;
  * Created by Min on 2017/9/16.
  */
 
+/**
+ * 插件应用加载类
+ */
 public class MMCPlugin {
     private static MMCPlugin instance = null;
 

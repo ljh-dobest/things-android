@@ -11,7 +11,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 
 /**
- * Author: Season(ssseasonnn@gmail.com)
+ *
  * Date: 2016/12/9
  * Time: 16:46
  * FIXME
