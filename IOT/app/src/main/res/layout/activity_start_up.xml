@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context="com.min.iotdemo.ui.StartUpActivity">
+
+    <TextView
+        android:id="@+id/tv_issp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="18dp"
+        android:text="ISSP先行版"
+        android:textSize="20dp" />
+
+    <TextView
+        android:id="@+id/tv_iot"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="18dp"
+        android:text="物联网模块"
+        android:textSize="20dp" />
+
+    <TextView
+        android:id="@+id/tv_zj"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="18dp"
+        android:text="资金平台"
+        android:textSize="20dp" />
+    <TextView
+        android:id="@+id/tv_xm"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="18dp"
+        android:text="项目市场化平台"
+        android:textSize="20dp" />
+
+    <TextView
+        android:id="@+id/tv_yg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="18dp"
+        android:text="员工机会平台"
+        android:textSize="20dp" />
+</LinearLayout>

@@ -10,6 +10,7 @@ import io.reactivex.Observable;
 import okhttp3.ResponseBody;
 import retrofit2.Response;
 import retrofit2.http.GET;
+import retrofit2.http.POST;
 import retrofit2.http.Path;
 import retrofit2.http.Query;
 
@@ -17,7 +18,7 @@ import retrofit2.http.Query;
  * 接口API
  */
 public interface Api {
-    @GET("{url}")
+    @POST("{url}")
     Observable<Code<List<EquimentBean>>> getEquimentStatus(@Path("url") String url);
     @GET("v2/movie/top2511")
     Observable<Response<ResponseBody>> getTop250(@Query("start") int start, @Query("count") int count);

@@ -18,7 +18,7 @@
             android:gravity="center_vertical"
             android:orientation="horizontal">
             <ImageView
-                android:visibility="invisible"
+                android:visibility="gone"
                 android:id="@+id/iv_answer_back"
                 android:layout_centerVertical="true"
                 android:layout_width="wrap_content"
@@ -33,6 +33,16 @@
                 android:textSize="16sp"
                 />
         </LinearLayout>
+        <TextView
+           android:layout_marginLeft="12dp"
+            android:id="@+id/tv_main_ocr"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@+id/ll_main_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/col_10DB9F"
+            android:text="文本识别"
+            android:textSize="16sp"/>
 
         <TextView
             android:layout_centerInParent="true"
@@ -43,24 +53,24 @@
             android:text="设备列表"
             />
         <TextView
-            android:id="@+id/tv_main_vedio"
+            android:id="@+id/tv_main_black"
             android:layout_centerVertical="true"
-            android:layout_toLeftOf="@+id/tv_main_brain"
+            android:layout_toLeftOf="@+id/tv_main_face"
             android:layout_marginRight="10dp"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textSize="15sp"
+            android:textSize="16sp"
             android:textColor="@color/col_10DB9F"
             android:text="黑科技"
             />
         <TextView
-            android:id="@+id/tv_main_brain"
+            android:id="@+id/tv_main_face"
             android:layout_centerVertical="true"
             android:layout_alignParentRight="true"
             android:layout_marginRight="10dp"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textSize="15sp"
+            android:textSize="16sp"
             android:textColor="@color/col_10DB9F"
             android:text="人脸识别"
             />
@@ -102,11 +112,13 @@
         android:text="开关"/>
 
     </LinearLayout>
+
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical"
         android:scrollbars="none">
+
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
@@ -116,24 +128,24 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:orientation="vertical">
+
                 <com.min.iotdemo.view.MyElvListView
                     android:id="@+id/ex_lv_equipment_main"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:background="#f5f5f5"
                     android:cacheColorHint="#f5f5f5"
-                    android:groupIndicator="@drawable/expandablelistview_change">
-                </com.min.iotdemo.view.MyElvListView>
+                    android:groupIndicator="@drawable/expandablelistview_change"></com.min.iotdemo.view.MyElvListView>
+
                 <com.min.iotdemo.view.MyElvListView
                     android:id="@+id/ex_lv_equipment_child"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:background="#f5f5f5"
                     android:cacheColorHint="#f5f5f5"
-                    android:groupIndicator="@drawable/expandablelistview_change">
-                </com.min.iotdemo.view.MyElvListView>
+                    android:groupIndicator="@drawable/expandablelistview_change"></com.min.iotdemo.view.MyElvListView>
             </LinearLayout>
         </LinearLayout>
     </ScrollView>
 
-    </LinearLayout>
+</LinearLayout>

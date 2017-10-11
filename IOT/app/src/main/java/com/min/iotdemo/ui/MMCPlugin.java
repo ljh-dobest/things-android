@@ -9,7 +9,7 @@ import android.content.pm.PackageManager;
 import android.os.Environment;
 import android.support.v4.app.ActivityCompat;
 
-import com.min.iotdemo.utils.HttpUtils;
+import com.ike.mylibrary.widget.dialog.LoadDialog;
 import com.qihoo360.replugin.RePlugin;
 import com.qihoo360.replugin.model.PluginInfo;
 
@@ -46,8 +46,9 @@ public class MMCPlugin {
     public void openPlugin(Context context, String pluginName, String activityName, InstallListener installListener) {
         this.installListener = installListener;
         if (RePlugin.isPluginInstalled(pluginName)) {//判断是否已经安装，安装了的话，就打开Activity，并且检查插件版本，需要更新的话就下载插件
+            LoadDialog.dismiss(context);
           Intent intent=new Intent();
-            intent.putExtra("url", HttpUtils.URL);
+           // intent.putExtra("url", HttpUtils.URL);
            openActivity(context,intent,pluginName,activityName);//带参数启动
            // RePlugin.startActivity(context, RePlugin.createIntent(pluginName, activityName));
            // PluginInfo info = RePlugin.getPluginInfo(pluginName);
@@ -56,6 +57,7 @@ public class MMCPlugin {
 //                downPlugin(context, "http://插件地址", pluginName, activityName, true);
 //            }
         } else {
+            LoadDialog.show(context);
             downPlugin(context, "http://插件地址", pluginName, activityName, false);
         }
     }

@@ -11,6 +11,7 @@ import java.util.List;
  */
 
 public class DataUtils {
+    public static List<EquimentBean> Equimentscontrol=new ArrayList<>();
     public static List<EquimentBean> Equiments=new ArrayList<>();
     public static List<Equiment>  childEquiments = new ArrayList<>();
 

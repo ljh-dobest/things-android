@@ -13,8 +13,10 @@ import java.util.Map;
 public class HttpUtils {
 //          public static final String IMAGE_URL ="http://192.168.0.104:90";
 //      public static final String URL ="http://192.168.0.104:90/appapi/app";
-     public static final String URL = "http://192.168.0.113:90/redis/app";
-    public static final String IMAGE_URL = "https://sq.bjike.com";
+     public static final String URL = "https://wl.bjike.com/redis/app";
+    public static final String BASE_URL = "https://wl.bjike.com";
+    public static final String NET_URL = "https://wl.bjike.com/redis/app/start";
+    public static final String LOCAL_URL = "http://192.168.0.107:90/redis/app";
     private static final String TAG = "HttpClient-Request";
 
 
@@ -33,7 +35,20 @@ public class HttpUtils {
                 .build()
                 .execute(callback);
     }
-
+    /**
+     * GET
+     *
+     * @param url
+     * @param file
+     * @param callback
+     */
+    public static void connectToWeb(StringCallback callback) {
+        OkHttpUtils
+               .get()
+                .url(NET_URL)
+                .build()
+                .execute(callback);
+    }
 
     /**
      * post提交文件

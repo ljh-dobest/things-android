@@ -120,7 +120,7 @@ public class EquimentControlActivity extends BaseMvpActivity<IControlActivityVie
     public void setSort(String sotr) {
         String[] array=sotr.split(",");
         for (int i = 0; i < array.length; i++) {
-            for (EquimentBean equiment : DataUtils.Equiments) {
+            for (EquimentBean equiment : DataUtils.Equimentscontrol) {
                    if(equiment.getKey().equals(array[i])){
                        equiment.setCheck(true);
                     }

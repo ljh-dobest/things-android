@@ -24,17 +24,21 @@ public class ElvMainEquimentControlAdapter extends BaseExpandableListAdapter {
     private List<EquimentBean> dataset = new ArrayList<>();
     private Context mContext;
     private LayoutInflater inflater;
+
     public ElvMainEquimentControlAdapter(Context context) {
-        this.mContext=context;
+        this.mContext = context;
         inflater = LayoutInflater.from(mContext);
     }
-    public void setDataset(List<EquimentBean> data){
-        this.dataset=data;
+
+    public void setDataset(List<EquimentBean> data) {
+        this.dataset = data;
         notifyDataSetChanged();
     }
-    public List<EquimentBean> getData(){
+
+    public List<EquimentBean> getData() {
         return dataset;
     }
+
     //  获得某个父项的某个子项
     @Override
     public Object getChild(int parentPos, int childPos) {
@@ -92,12 +96,13 @@ public class ElvMainEquimentControlAdapter extends BaseExpandableListAdapter {
     @Override
     public View getChildView(int parentPos, int childPos, boolean b, View view, ViewGroup viewGroup) {
         ViewHolder viewHolder = null;
-        EquimentBean equiment=dataset.get(childPos);
-        if(view==null){
+        EquimentBean equiment = dataset.get(childPos);
+        if (view == null) {
             view = inflater.inflate(R.layout.elv_child_conteol_item, null);
             viewHolder = new ViewHolder();
             viewHolder.tv_name = (TextView) view.findViewById(R.id.tv_child_name);
             viewHolder.et_time = (EditText) view.findViewById(R.id.et_child_delayTime);
+            viewHolder.et_child_count= (EditText) view.findViewById(R.id.et_child_count);
             viewHolder.followCheckBox = (CheckBox) view.findViewById(R.id.cb_child_check_item);
             final ViewHolder finalViewHolder = viewHolder;
             viewHolder.followCheckBox.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
@@ -122,14 +127,25 @@ public class ElvMainEquimentControlAdapter extends BaseExpandableListAdapter {
 //            });
             view.setTag(viewHolder);
             viewHolder.followCheckBox.setTag(equiment);
-        }else{
+        } else {
             viewHolder = (ViewHolder) view.getTag();
             viewHolder.followCheckBox.setTag(equiment);
+        }
+        //判断是否是假数据
+        System.out.println("----key---"+equiment.getKey());
+        if (equiment.getKey().equals("")) {
+            viewHolder.et_time.setVisibility(View.INVISIBLE);
+            viewHolder.followCheckBox.setVisibility(View.INVISIBLE);
+            viewHolder.et_child_count.setVisibility(View.INVISIBLE);
+        }else if(equiment.getKey().equals("Light_cover-003")){
+            viewHolder.et_time.setVisibility(View.VISIBLE);
+            viewHolder.followCheckBox.setVisibility(View.VISIBLE);
+            viewHolder.et_child_count.setVisibility(View.VISIBLE);
         }
 
         viewHolder.tv_name.setText(equiment.getName());
 
-       // viewHolder.et_time.setText(equiment.getDelayTime());
+        // viewHolder.et_time.setText(equiment.getDelayTime());
 
         viewHolder.followCheckBox.setChecked(equiment.isCheck());
 
@@ -142,9 +158,11 @@ public class ElvMainEquimentControlAdapter extends BaseExpandableListAdapter {
     public boolean isChildSelectable(int i, int i1) {
         return true;
     }
-    private class ViewHolder{
+
+    private class ViewHolder {
         private TextView tv_name;
         private EditText et_time;
+        private EditText et_child_count;
         private CheckBox followCheckBox;
     }
 }

@@ -10,7 +10,6 @@ import android.widget.TextView;
 
 import com.min.iotdemo.R;
 import com.min.iotdemo.bean.EquimentBean;
-import com.min.iotdemo.utils.DataUtils;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -100,31 +99,40 @@ public class ElvMainEquimentAdapter extends BaseExpandableListAdapter {
             viewHolder.btn_open=(Button) view.findViewById(R.id.btn_equiment_status);
            // viewHolder.tv_time = (TextView) view.findViewById(R.id.tv_child_delayTime);
           // viewHolder.followCheckBox = (CheckBox) view.findViewById(R.id.cb_child_check_item);
-            final ViewHolder finalViewHolder = viewHolder;
-            viewHolder.btn_open.setOnClickListener(new View.OnClickListener() {
-                @Override
-                public void onClick(View v) {
-                    EquimentBean info = (EquimentBean) finalViewHolder.btn_open.getTag();
-                   info.setOpen(!info.isOpen());
-                }
-            });
+
             view.setTag(viewHolder);
-            viewHolder.btn_open.setTag(DataUtils.Equiments.get(childPos));
+            viewHolder.btn_open.setTag(dataset.get(childPos));
         }else{
             viewHolder = (ViewHolder) view.getTag();
-            viewHolder.btn_open.setTag(DataUtils.Equiments.get(childPos));
+            viewHolder.btn_open.setTag(dataset.get(childPos));
         }
 
         viewHolder.tv_name.setText(equiment.getName());
         viewHolder.tv_status.setBackgroundColor(equiment.getValue().equals("0")?mContext.getResources().getColor(R.color.red):mContext.getResources().getColor(R.color.green));
+        if (!equiment.getKey().equals("")){//判断是否是假数据
+            final ViewHolder finalViewHolder = viewHolder;
+        viewHolder.btn_open.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                EquimentBean info = (EquimentBean) finalViewHolder.btn_open.getTag();
+                info.setOpen(!info.isOpen());
+                notifyDataSetChanged();
+            }
+        });
         viewHolder.btn_open.setText(equiment.isOpen()?"开启":"关闭");
-        if(DataUtils.Equiments.get(childPos).isOpen()){
+        if(dataset.get(childPos).isOpen()){
             viewHolder.btn_open.setText("开启");
             viewHolder.tv_status.setText(equiment.getValue());
         }else{
             viewHolder.btn_open.setText("关闭");
             viewHolder.tv_status.setText("关闭");
             viewHolder.tv_status.setBackgroundColor(mContext.getResources().getColor(R.color.gray));
+        }}else {
+            //假数据处理
+            viewHolder.btn_open.setText("待开发");
+            viewHolder.tv_status.setText("");
+            viewHolder.tv_status.setBackgroundColor(mContext.getResources().getColor(R.color.white));
+            viewHolder.btn_open.setBackgroundColor(mContext.getResources().getColor(R.color.gray));
         }
         return view;
     }

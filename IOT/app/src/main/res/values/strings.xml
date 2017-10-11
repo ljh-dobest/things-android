@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">IotDemo</string>
+    <string name="app_name">艾佳物联网仿真模拟平台</string>
     <string name="title_activity_attention">AttentionActivity</string>
 </resources>

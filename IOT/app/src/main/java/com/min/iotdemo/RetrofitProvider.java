@@ -17,12 +17,13 @@ import retrofit2.converter.gson.GsonConverterFactory;
  * FIXME
  */
 public class RetrofitProvider {
-    private static final String ENDPOINT = "http://192.168.0.113:90/redis/app/";
+    private static final String ENDPOINT = "https://wl.bjike.com/redis/app/";
+    private static final String LOCAL_URL= "http://192.168.0.107:90/redis/app/";
 
     public static Retrofit get() {
         OkHttpClient.Builder builder = new OkHttpClient().newBuilder();
         builder.readTimeout(10, TimeUnit.SECONDS);
-        builder.connectTimeout(9, TimeUnit.SECONDS);
+        builder.connectTimeout(10, TimeUnit.SECONDS);
 
         return new Retrofit.Builder().baseUrl(ENDPOINT)
                 .client(builder.build())

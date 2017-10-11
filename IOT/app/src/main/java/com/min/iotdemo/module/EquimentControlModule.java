@@ -1,6 +1,5 @@
 package com.min.iotdemo.module;
 
-import com.google.gson.Gson;
 import com.min.iotdemo.Api;
 import com.min.iotdemo.RetrofitProvider;
 import com.min.iotdemo.bean.Code;
@@ -9,12 +8,9 @@ import com.min.iotdemo.bean.EquimentBean;
 import com.min.iotdemo.bean.Sort;
 import com.min.iotdemo.listener.OnControlEquimentFiniishListener;
 import com.min.iotdemo.utils.HttpUtils;
-import com.min.iotdemo.utils.RedisControl;
 import com.zhy.http.okhttp.callback.StringCallback;
 
-import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
 
 import io.reactivex.android.schedulers.AndroidSchedulers;
 import io.reactivex.functions.Consumer;
@@ -98,41 +94,7 @@ public class EquimentControlModule {
 
     }
 
-    /**
-     * 参数组合设置
-     * @param mainEquiment
-     * @param childEquiment
-     * @param listener
-     */
-    public  void setDelayTimeContry(List<Equiment> mainEquiment, List<Equiment> childEquiment, final OnControlEquimentFiniishListener listener){
-        Map<String,String> map=new HashMap<>();
-        String child="";
-        Gson gson=new Gson();
-        for (int i = 0; i < childEquiment.size(); i++) {
-            if(i==0){
-                child=child+childEquiment.get(i).getId();
-            }else{
-                child=child+","+childEquiment.get(i).getId();
-            }
-        }
-        map.put("secondary",child);
-        for (int i = 0; i < mainEquiment.size(); i++) {
-            map.put("main",mainEquiment.get(i).getId());
-            map.put("time",mainEquiment.get(i).getDelayTime());
-        }
-        final String msg=gson.toJson(map);
-            new Thread(new Runnable() {
-                @Override
-                public void run() {
-                    try {
-                    RedisControl.getInstance().setValue("sort",msg);
-                       listener.succeedToControl("组合设置成功");
-                    }catch (Exception e){
-                        listener.showError("组合设置失败");
-                    }
-                }
-            }).start();
-    }
+
 
     public void getEquimentstatus(final OnControlEquimentFiniishListener listener){
         Api api= RetrofitProvider.get().create(Api.class);
