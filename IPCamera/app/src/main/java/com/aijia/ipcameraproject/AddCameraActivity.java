@@ -46,6 +46,9 @@ import java.util.TimerTask;
 import vstc2.nativecaller.NativeCaller;
 
 
+/**
+ * 摄像头连接类
+ */
 
 public class AddCameraActivity extends Activity implements OnClickListener
      , OnItemSelectedListener,CallBackMessageInterface, AddCameraInterface, IpcamClientInterface {

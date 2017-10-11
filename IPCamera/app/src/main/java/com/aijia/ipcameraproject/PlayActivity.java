@@ -100,7 +100,9 @@ import java.util.TimerTask;
 import okhttp3.Call;
 import vstc2.nativecaller.NativeCaller;
 
-
+/**
+ * 网络摄像头监控类
+ */
 public class PlayActivity extends Activity implements OnTouchListener,OnGestureListener, OnClickListener, PlayInterface ,CustomAudioRecorder.AudioRecordResult
 {
 

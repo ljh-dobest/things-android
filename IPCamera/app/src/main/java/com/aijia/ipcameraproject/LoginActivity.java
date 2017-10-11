@@ -36,6 +36,9 @@ import cn.finalteam.rxgalleryfinal.rxbus.RxBusResultDisposable;
 import cn.finalteam.rxgalleryfinal.rxbus.event.ImageRadioResultEvent;
 import okhttp3.Call;
 
+/**
+ * 人脸注册类
+ */
 public class LoginActivity extends Activity implements View.OnClickListener {
     private static final int REQUEST_PERMISSION_CAMERA =100 ;
     private Button btn_upLoad;
