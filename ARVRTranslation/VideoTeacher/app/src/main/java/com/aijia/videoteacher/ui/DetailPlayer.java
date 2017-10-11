@@ -22,14 +22,14 @@ import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.OnClick;
 
-
+/**
+ * 视频播放类
+ */
 public class DetailPlayer extends AppCompatActivity {
 
     @BindView(R.id.post_detail_nested_scroll)
     NestedScrollView postDetailNestedScroll;
 
-    //推荐使用StandardGSYVideoPlayer，功能一致
-    //CustomGSYVideoPlayer部分功能处于试验阶段
     @BindView(R.id.detail_player)
     LandLayoutVideo detailPlayer;
 

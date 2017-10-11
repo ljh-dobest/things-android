@@ -43,13 +43,7 @@ import java.lang.reflect.Method;
 import java.util.Set;
 
 /**
- * This activity demonstrates how to use the constructor:
- * public TgStreamReader(BluetoothDevice mBluetoothDevice,TgStreamHandler tgStreamHandler)
- * and related functions:
- * (1) changeBluetoothDevice
- * (2) Demo of drawing ECG
- * (3) Demo of getting Bluetooth device dynamically
- * (4) setTgStreamHandler
+ *脑电波类
  */
 public class BrainLinkActivity extends Activity {
     private static final String TAG = BrainLinkActivity.class.getSimpleName();

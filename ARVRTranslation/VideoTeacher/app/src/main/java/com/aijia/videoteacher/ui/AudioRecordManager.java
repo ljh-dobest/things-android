@@ -12,6 +12,9 @@ import java.io.FileOutputStream;
  * Created by Min on 2017/8/19.
  */
 
+/**
+ * 录音管理器
+ */
 public class AudioRecordManager {
     public static final String TAG = "AudioRecordManager";
     private AudioRecord mRecorder;

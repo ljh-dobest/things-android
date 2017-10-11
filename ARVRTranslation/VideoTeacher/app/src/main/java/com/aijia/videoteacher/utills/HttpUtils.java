@@ -13,9 +13,9 @@ import java.util.Map;
 public class HttpUtils {
 //          public static final String IMAGE_URL ="http://192.168.0.104:90";
 //      public static final String URL ="http://192.168.0.104:90/appapi/app";
-     public static  String URL = "http://192.168.0.113:90/ar/index";
+     public static  String URL = "https://wl.bjike.com/ar/index";
     public static final String IMAGE_URL = "https://sq.bjike.com";
-    public static final String VEDIO_URL = "http://192.168.0.113:90";
+    public static  String   VEDIO_URL = "https://wl.bjike.com";
     private static final String TAG = "HttpClient-Request";
 
 

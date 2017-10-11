@@ -36,7 +36,7 @@ public void setOnMoreClickListener(OnMoreClickListener listener){
         switch (view.getId()){
             case R.id.tv_more_takephoto:    //拍照识别
                 //getCameraPermisson();
-                mActivity.startActivity(new Intent(mActivity,CameraActivity.class));
+                mActivity.startActivity(new Intent(mActivity,ArActivity.class));
                 this.dismiss();
                 break;
             case R.id.tv_more_localPicture:   //本地识别
@@ -56,9 +56,10 @@ public void setOnMoreClickListener(OnMoreClickListener listener){
                 this.dismiss();
                 break;
             case R.id.tv_more_voiceConversion:   //语音转换
-                mActivity.startActivity(new Intent(mActivity,RecordActivity.class));
+                mActivity.startActivity(new Intent(mActivity,XFTranslation.class));
                 this.dismiss();
                 break;
+
         }
     }
 
@@ -88,12 +89,14 @@ public void setOnMoreClickListener(OnMoreClickListener listener){
         tvMoreVRVideo= (TextView) view.findViewById(R.id.tv_more_vr_video);
         tvMoreBranLink= (TextView) view.findViewById(R.id.tv_more_brainlink);
         tvMoreVoiceConversion= (TextView) view.findViewById(R.id.tv_more_voiceConversion);
+
         tvMoreVoiceConversion.setOnClickListener(this);
         tvMoreTakePicture.setOnClickListener(this);
         tvMoreLocalPicture.setOnClickListener(this);
         tvMoreVRPicture.setOnClickListener(this);
         tvMoreVRVideo.setOnClickListener(this);
         tvMoreBranLink.setOnClickListener(this);
+
 
         return view;
     }

@@ -73,6 +73,10 @@
         android:text="脑电波"
         android:textColor="@color/col_121212"
         android:textSize="16sp" />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/gray" />
     <TextView
         android:paddingTop="10dp"
         android:paddingBottom="10dp"
@@ -83,5 +87,6 @@
         android:text="语音转换"
         android:textColor="@color/col_121212"
         android:textSize="16sp" />
+
 
 </LinearLayout>

@@ -6,4 +6,5 @@
     <dimen name="post_media_height">200dp</dimen>
 
     <dimen name="seek_bar_image">150dp</dimen>
+    <dimen name="result_pop_padding">2dp</dimen>
 </resources>

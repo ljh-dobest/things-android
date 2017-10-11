@@ -4,6 +4,9 @@ import android.bluetooth.BluetoothDevice;
 
 import java.lang.reflect.Method;
 
+/**
+ * 脑电波工具类
+ */
 public class BrainUtils {
 
     public static boolean autoBond(Class btClass, BluetoothDevice device, String strPin) throws Exception {

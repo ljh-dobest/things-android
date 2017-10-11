@@ -9,11 +9,15 @@ import android.widget.ImageButton;
 import android.widget.SeekBar;
 
 import com.aijia.videoteacher.R;
+import com.aijia.videoteacher.utills.HttpUtils;
 import com.google.vr.sdk.widgets.video.VrVideoEventListener;
 import com.google.vr.sdk.widgets.video.VrVideoView;
 
 import java.io.IOException;
 
+/**
+ * VR视频类
+ */
 public class VrVideoActivity extends AppCompatActivity {
     /**
      * 播放360度全景视频的的控件
@@ -134,8 +138,8 @@ public class VrVideoActivity extends AppCompatActivity {
         });
         try {
             /**加载VR视频**/
-         //  Uri uri=Uri.parse("http://player.video.qiyi.com/e13d067e7aa4a973dab4e3ecf0b024d0/0/67/w_19rqziua7t.swf-albumId=1279117909-tvId=1279117909-isPurchase=0-cnId=27");
-            Uri uri = Uri.parse("http://192.168.0.104:90/public/uploads/ar/ar.mp4");
+          // Uri uri=Uri.parse("http://player.video.qiyi.com/e13d067e7aa4a973dab4e3ecf0b024d0/0/67/w_19rqziua7t.swf-albumId=1279117909-tvId=1279117909-isPurchase=0-cnId=27");
+            Uri uri = Uri.parse(HttpUtils.VEDIO_URL+"/public/uploads/ar/ar.mp4");
             //Uri uri = Uri.parse("http://www.iqiyi.com/w_19rqziua7t.html");
 
              // Uri uri1=Uri.parse("http://foo.com/file.m3u8");

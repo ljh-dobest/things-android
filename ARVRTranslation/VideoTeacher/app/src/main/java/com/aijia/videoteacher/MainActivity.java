@@ -49,13 +49,15 @@ public class MainActivity extends Activity{
         setContentView(R.layout.activity_main);
         String url=getIntent().getStringExtra("url");
         if(url!=null){
-            HttpUtils.URL=getIntent().getStringExtra("url");
-            Log.d("url",getIntent().getStringExtra("url"));
+            HttpUtils.VEDIO_URL=url;
+            Log.d("url",url);
         }
         ButterKnife.bind(this);
         SharedPreferences sp = PreferenceManager.getDefaultSharedPreferences(this);
         sp.edit().remove(Constant.EXTRA_INFILE).commit(); // infile参数用于控制识别一个PCM音频流（或文件），每次进入程序都将该值清楚，以避免体验时没有使用录音的问题
+
     }
+
 
     @Override
     protected void onResume() {
@@ -103,7 +105,7 @@ public class MainActivity extends Activity{
     public void onViewClicked(View view) {
         switch (view.getId()) {
             case R.id.ll_main_back:
-
+                      finish();
                 break;
             case R.id.tv_main_video:
                 int WidthPixels = DisplayUtils.getScreenWidthPixels(this);

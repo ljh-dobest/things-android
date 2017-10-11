@@ -13,6 +13,9 @@ import com.google.vr.sdk.widgets.pano.VrPanoramaView;
 import java.io.IOException;
 import java.io.InputStream;
 
+/**
+ * VR图片类
+ */
 public class VrPictureActivity extends AppCompatActivity {
 
     /**
