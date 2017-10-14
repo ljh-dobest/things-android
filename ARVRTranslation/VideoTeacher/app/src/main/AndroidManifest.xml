@@ -52,8 +52,6 @@
             android:name=".ui.BrainLinkActivity"
             android:screenOrientation="landscape" />
           <activity android:name=".ui.XFTranslation"/>
-        <activity android:name=".ui.OCRActivity"/>
-        <activity android:name=".ui.IDCardActivity"/>
     </application>
 
 </manifest>
